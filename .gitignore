@@ -16,8 +16,8 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data & models (not tracked)
-dataset/
+# Data (large files, use git-lfs or keep tracked)
+# dataset/
 models/
 cache/
 
