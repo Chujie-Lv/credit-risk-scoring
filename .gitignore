@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (not tracked)
+dataset/
+models/
+cache/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Legacy
+src/highscore_lgbm.py
+
